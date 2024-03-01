@@ -12,4 +12,21 @@ Machine Learning by Andrew Ng - Implementation in Python
 - Feature Normalization
 - Make predictions
 
+### Exercise 2 : Logistic Regression 
+- Data Visualizations
+- Cost functions and Gradient code from scratch
+- Feature normalization
+- Apply logistic regression
+- Apply regularization
+- Visualize boundary of the classification
 
+### Exercise 3 : Multi-Class Classification
+- logistic regression Cost and Gradients (multi-class)
+#### One vs All 
+- OVA and noBias OVA code without built-in OVA functions
+- Make predictions
+#### Neural Networks 
+- Code a neural net predictor
+- Make predictions
+
+### Exercise 4 : Multi-Class Classification

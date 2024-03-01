@@ -36,4 +36,10 @@ Note: the course is originally taught in Oracle/MATLAB. Implementations in Pytho
 - Code gradient descent for Neural nets
 - Make predictions using said neural net
 
-### Exercise 5 : Neural Networks Learning
+### Exercise 5 : Regularized Linear Regression and Bias v.s. Variance
+
+- LR Regularized Cost and Grad
+- Learning curve visualizations
+- map data into polynomial feature space
+- Visualize different polynomial fits
+- Get learning curves for Training and Cross-Validation

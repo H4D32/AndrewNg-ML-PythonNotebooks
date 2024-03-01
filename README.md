@@ -5,7 +5,7 @@ Machine Learning by Andrew Ng - Implementation in Python
 #### Univariate LR
 - Data Visualizations
 - Coding Cost functions and gradient descent from scratch
-- Visualizing J(\theta) cost
+- Visualizing J($\theta$) cost
 
 #### Multivariate LR 
 - Data Visualizations

@@ -1,5 +1,6 @@
 # AndrewNg ML Python Notebooks
 Machine Learning by Andrew Ng - Implementation in Python
+Note: the course is originally taught in Oracle/MATLAB. Implementations in Python are made by me. Data sets are taken from Andrew Ng's course
 
 ### Exercise 1 : Linear Regression 
 #### Univariate LR
@@ -29,4 +30,10 @@ Machine Learning by Andrew Ng - Implementation in Python
 - Code a neural net predictor
 - Make predictions
 
-### Exercise 4 : Multi-Class Classification
+### Exercise 4 : Neural Networks Learning
+- Coding Neural net Cost functions from scratch
+- Initialize weights (randomly)
+- Code gradient descent for Neural nets
+- Make predictions using said neural net
+
+### Exercise 5 : Neural Networks Learning

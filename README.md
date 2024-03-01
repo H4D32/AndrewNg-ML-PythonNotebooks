@@ -1,5 +1,5 @@
 # Machine Learning in Python, Inspired by Andrew Ng
-Machine Learning by Andrew Ng - Implementation in Python
+
 Note: the course is originally taught in Oracle/MATLAB. Implementations in Python are made by me. Data sets are taken from Andrew Ng's course
 
 ### Exercise 1 : Linear Regression 
